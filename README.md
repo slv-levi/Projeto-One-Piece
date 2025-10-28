@@ -8,7 +8,7 @@ Um projeto interativo, que consiste em botões, com nome e descrição de alguns
 - HTML;
 - CSS;
 - JAVASCRIPT;
-<img src="./src/imagens/imagens-readme/pngegg.png" alt="png das linguagens html, css e javascript">
+![png das linguagens html, css e javascript](./src/imagens/imagens-readme/pngegg.png)
 
 ## Contatos
 <div> 
