@@ -1,14 +1,14 @@
 # Projeto One Piece
 Um projeto interativo, que consiste em botões, com nome e descrição de alguns personagens do Anime One Piece, o Projeto é simples e funcional, foi um projeto muito desafiador e muito edificante para minha vida profissional, fique muito feliz em participar do evento proporcionado pelo <a href="https://www.instagram.com/devemdobro/" target="_blank">DevemDobro</a> foi um grande desafio, mas á experiencia foi incrivel!
 
-[<img src="./src/imagens/imagens readme/Animação tela one piece.gif">](https://slv-levi.github.io/Projeto-One-Piece/)
+![Animação de tela](./src/imagens/imagens-readme/animacaotelaonepiece.gif)
 <a href="https://slv-levi.github.io/Projeto-One-Piece/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
 - HTML;
 - CSS;
 - JAVASCRIPT;
-<img src="./src/imagens/imagens readme/pngegg.png" alt="png das linguagens html, css e javascript">
+<img src="./src/imagens/imagens-readme/pngegg.png" alt="png das linguagens html, css e javascript">
 
 ## Contatos
 <div> 
